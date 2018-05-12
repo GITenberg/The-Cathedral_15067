@@ -1,0 +1,45 @@
+_repo: The-Cathedral_15067
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bell, Clara
+    birthdate: 1834
+    deathdate: 1927
+    gutenberg_agent_id: '1801'
+    url: http://www.gutenberg.org/2009/agents/1801
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huysmans, J.-K. (Joris-Karl)
+    aliases:
+    - Huysmans, Jaris-Karl
+    - Huysmans, Joris Karl
+    - Huysmans, Charles-Marie-Georges
+    - Huysmans, Jorris-Karl
+    birthdate: 1848
+    deathdate: 1907
+    gutenberg_agent_id: '4324'
+    url: http://www.gutenberg.org/2009/agents/4324
+    wikipedia: http://en.wikipedia.org/wiki/Joris-Karl_Huysmans
+description: "Cathedral is a 1981 novel by American author, Nelson DeMille.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15067'
+  wikidata: Q7721712
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: The Cathedral
+url: http://www.gutenberg.org/ebooks/15067
+wikipedia:
+- https://en.wikisource.org/wiki/The_Cathedral_(Huysmans)
+- https://en.wikipedia.org/wiki/The_Cathedral_(novel)
+- https://fr.wikipedia.org/wiki/La_Cath%C3%A9drale
